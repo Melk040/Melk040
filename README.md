@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melk040
-- 👀 I’m interested in learn about HTML, CSS an Javascript.
+- 👀 I’m interested in learn to code HTML, CSS an Javascript.
 - 🌱 I’m currently learning to be a frontend developer.
 
 <!---
